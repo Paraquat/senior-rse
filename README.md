@@ -22,7 +22,7 @@ The statistics file, histogram file and number of histogram bins can be
 specified with the following arguments:
 
 ```
-optdens.py inputfile.csv -s statistics.csv -p historgram.png -n 10
+optdens.py inputfile.csv -s statistics.csv -p histogram.png -n 10
 ```
 
 A list of arguments can be accessed by adding the `-h` flag.
@@ -40,3 +40,7 @@ optical density. A header with the column names is also added.
 ## Testing
 
 The unit tests can be run using `python3 TestOpticalDensity.py`
+
+## TODO:
+
+See the list of [issues](https://github.com/Paraquat/senior-rse/issues).
