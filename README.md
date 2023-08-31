@@ -12,7 +12,8 @@ plots a histogram of optical densities in a `.png` file.
 
 ## Usage
 
-The script can be called from the command line using:
+All scripts are currently in the `src` directory. The script can be called from
+the command line using:
 
 ```
 optdens.py input_file.csv
